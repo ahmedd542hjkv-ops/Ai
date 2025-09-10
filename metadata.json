@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chat Pro",
+  "description": "An advanced, highly customizable chat application powered by the Gemini API. Features include extensive theme and font customization, persistent chat history, and web search integration for up-to-date answers.",
+  "requestFramePermissions": []
+}
